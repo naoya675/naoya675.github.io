@@ -10,6 +10,16 @@ title: Home
 
 - [About Me](/about/)
 
+## Account
+
+- [GitHub](https://github.com/naoya675)
+- [Twitter](https://twitter.com/naoya675)
+- [AtCoder](https://atcoder.jp/users/naoya675)
+- [AtCoder Problems](https://kenkoooo.com/atcoder/#/user/naoya675)
+- [Codeforces](https://codeforces.com/profile/naoya675)
+
+## Contents
+
 <ul>
 {% for post in site.posts %}
   <li>
@@ -18,11 +28,3 @@ title: Home
   </li>
 {% endfor %}
 </ul>
-
-## Account
-
-- [GitHub](https://github.com/naoya675)
-- [Twitter](https://twitter.com/naoya675)
-- [AtCoder](https://atcoder.jp/users/naoya675)
-- [AtCoder Problems](https://kenkoooo.com/atcoder/#/user/naoya675)
-- [Codeforces](https://codeforces.com/profile/naoya675)
